@@ -1,18 +1,18 @@
-﻿# рџђЌ Gorgona One | Geowifi
+# 🐍 Gorgona One | GeoWiFi
 
-**РЎРѕР·РґР°С‚РµР»СЊ:** РђР»РµРєСЃРµР№ РђР»РµРєСЃР°РЅРґСЂРѕРІ
-**РџСЂРѕРµРєС‚:** Gorgona One AI
-
-**РЎРѕР·РґР°С‚РµР»СЊ:** РђР»РµРєСЃРµР№ РђР»РµРєСЃР°РЅРґСЂРѕРІ
-**РџСЂРѕРµРєС‚:** Gorgona One AI
+**Создатель:** Алексей Александров  
+***Проект:** Gorgona One AI  
 
 **Curated and optimized by Gorgona One.**  
 *This tool is part of the exclusive Gorgona One OSINT toolkit.*
 
-## рџљЂ Overview
-Geowifi is a powerful OSINT utility included in the Gorgona One toolset.
+## 🚚 Описание (Overview)
+
+🇵🇷 Утилита для поиска геолокации по MAC-адресам, BSSID и SSID Wi-Fi точек по всему миру.
+🇵🇧 A utility to search for geolocation data using MAC addresses, BSSID, and SSID of Wi-Fi access points worldwide.
 
 ---
+
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
